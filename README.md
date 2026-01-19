@@ -30,8 +30,5 @@ This project predicts the price of houses in Ahmedabad city using Machine Learni
 - HousePricePrediction.ipynb — main notebook
 - house_price_model.pkl — saved ML model
 
-## How to Run
-Upload notebook & CSV to Google Colab and run all cells.
-
 ## Result
 Model is able to predict house prices based on available features.
