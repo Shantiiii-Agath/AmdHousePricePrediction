@@ -1,12 +1,12 @@
 # House Price Prediction using Machine Learning
 
-## 📌 Problem Statement
+## Problem Statement
 
 The goal of this project is to predict house prices based on various features such as location, size, and number of rooms. Accurate price prediction helps buyers and sellers make informed decisions in the real estate market.
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains housing-related attributes including:
 
@@ -20,7 +20,7 @@ Missing values were handled before model training to ensure data quality.
 
 ---
 
-## ⚙️ Machine Learning Workflow
+##  Machine Learning Workflow
 
 1. Data loading and exploration
 2. Data cleaning and handling missing values
@@ -31,7 +31,7 @@ Missing values were handled before model training to ensure data quality.
 
 ---
 
-## 🧠 Model Used
+## Model Used
 
 * **Linear Regression**
 
@@ -39,7 +39,7 @@ Linear Regression was chosen as it is a simple and interpretable algorithm suita
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 The model performance was evaluated using:
 
@@ -50,7 +50,7 @@ These metrics help assess the accuracy and reliability of the predictions.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
