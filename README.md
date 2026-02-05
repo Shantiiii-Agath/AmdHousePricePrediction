@@ -6,7 +6,7 @@ This project predicts house prices using a Machine Learning regression model.
 - Python
 - Pandas
 - Scikit-learn
-- Matplotlib
+- Matplotlib 
 
 ## Workflow
 1. Data cleaning and preprocessing
