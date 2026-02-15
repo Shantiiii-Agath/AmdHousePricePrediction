@@ -9,7 +9,7 @@ This project predicts house prices using a Machine Learning regression model.
 - Matplotlib 
 
 ## Workflow
-1. Data cleaning and preprocessing
+1. Data cleaning and preprocessing 
 2. Feature encoding and scaling
 3. Model training and evaluation
 
