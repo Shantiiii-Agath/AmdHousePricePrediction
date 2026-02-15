@@ -18,5 +18,5 @@ Evaluated using MAE and R² score.
 
 ## How to Run
 pip install -r requirements.txt  
-python house_price_prediction.py 
+python house_price_prediction.py
 
