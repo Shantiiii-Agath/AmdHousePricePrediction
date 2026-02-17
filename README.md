@@ -2,7 +2,7 @@
 
 This project predicts house prices using a Machine Learning regression model.
 
-## Tech Stack 
+## Tech Stack  
 - Python
 - Pandas
 - Scikit-learn
