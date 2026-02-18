@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This project predicts house prices using a Machine Learning regression model.
+This project predicts house prices using a Machine Learning regression model. 
 
 ## Tech Stack  
 - Python
